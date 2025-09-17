@@ -13,9 +13,9 @@ The implementation leverages the [QuSpin](https://weinbe58.github.io/QuSpin/) li
 ## Requirements
 
 - Python ≥ 3.9  
-- [NumPy](https://numpy.org/)  
-- [Matplotlib](https://matplotlib.org/)  
-- [QuSpin](https://weinbe58.github.io/QuSpin/)  
+- [NumPy](https://numpy.org/doc/stable/index.html)  
+- [Matplotlib](https://matplotlib.org/stable/)  
+- [QuSpin](https://quspin.github.io/QuSpin/#)  
 
 Install dependencies with:
 ```bash
