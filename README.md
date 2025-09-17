@@ -16,3 +16,5 @@ The implementation leverages the [QuSpin](https://quspin.github.io/QuSpin/) libr
 - [NumPy](https://numpy.org/doc/stable/index.html)  
 - [Matplotlib](https://matplotlib.org/stable/)  
 - [QuSpin](https://quspin.github.io/QuSpin/#)  
+
+![Level-spacing histogram (Bose–Hubbard)](BH_Wigner.png)
