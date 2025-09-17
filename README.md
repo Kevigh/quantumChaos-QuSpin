@@ -1,7 +1,7 @@
 # Bose–Hubbard Chaotic Spectrum with QuSpin
 
 This repository contains Python code developed to study the **chaotic spectrum** of the Bose–Hubbard model.  
-The implementation leverages the [QuSpin](https://weinbe58.github.io/QuSpin/) library to construct and diagonalize many-body Hamiltonians, both in static and time-dependent settings.  
+The implementation leverages the [QuSpin](https://quspin.github.io/QuSpin/) library to construct and diagonalize many-body Hamiltonians, both in static and time-dependent settings.  
 
 ## Features
 
